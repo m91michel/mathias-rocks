@@ -1,6 +1,5 @@
 import React, { Fragment } from "react";
 import SEO from "../components/layout/seo";
-import "../styles/mystyles.scss";
 import Footer from "../components/layout/footer";
 import LatestPosts from "../components/home/latest-posts";
 import HeaderHero from "../components/home/header-hero";
